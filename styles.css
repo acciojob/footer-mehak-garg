@@ -1,1 +1,37 @@
 /* your code here */
+.bottom-details{
+	
+	background-color:grey;
+	display:flex;
+	justify-content:space-between;
+}
+.eg1{
+list-style-type:none;
+}
+.logo{
+	border-radius:50%;
+display:inline-block;
+	width:20px;
+	height:20px;
+	
+}
+#fb{
+	background-color:darkblue;
+}
+.media-icons{
+	display:flex;
+	justify-content:right;
+}
+#twitter{
+background-color:blue;}
+#instagram{
+	background-color:pink;
+}
+#youtube{
+	background-color:red;
+}
+#linkedin{
+background-color:skyblue;}
+.link-boxes{
+	display:flex;
+}
